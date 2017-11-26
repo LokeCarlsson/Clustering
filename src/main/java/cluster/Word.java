@@ -9,10 +9,6 @@ class Word {
         this.count = count;
     }
 
-    String getWord() {
-        return word;
-    }
-
     double getCount() {
         return count;
     }
